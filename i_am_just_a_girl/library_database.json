@@ -1,0 +1,26 @@
+[
+    {
+        "title": "The Fundamentals of Tawheed",
+        "author": "Dr. Abu Ameenah Bilal Philips",
+        "year": "1998",
+        "is_borrowed": false
+    },
+    {
+        "title": "Riyadh As-Salihin",
+        "author": "Imam An-Nawawi",
+        "year": "1240",
+        "is_borrowed": false
+    },
+    {
+        "title": "The Sealed Nectar",
+        "author": "Safiyyur Rahman Al-Mubarakpuri",
+        "year": "1979",
+        "is_borrowed": true
+    },
+    {
+        "title": "Explanation of the Creed",
+        "author": "Shaykh Muhammad ibn Salih al-Uthaymeen",
+        "year": "1999",
+        "is_borrowed": false
+    }
+]
