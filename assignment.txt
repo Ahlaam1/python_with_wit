@@ -1,0 +1,10 @@
+bank account class that has two attributes
+owner
+balance
+
+methods:
+deposit
+withdraw
+withdraw may not exceed available balance
+
+instantiate your class make several deposits and withdrawals and make sure the account cant be overdrawn
